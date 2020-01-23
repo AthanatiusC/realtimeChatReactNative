@@ -25,6 +25,15 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "android":{
+      "package":"com.AthanatiusC"
+    },
+    "androidStatusBarColor":"#075e54"
+    ,
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#075e54"
+    },
   }
 }
